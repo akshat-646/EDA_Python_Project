@@ -33,7 +33,7 @@ The analysis is performed on the Diwali Sales Data.csv dataset, which includes i
 
 **Project Structure**
 
-**PYTHON_PROJECT_FINAL.ipynb**: The main Jupyter Notebook containing the complete data analysis workflow, from data loading to visualization.
+**PYTHON_PROJECT.ipynb**: The main Jupyter Notebook containing the complete data analysis workflow, from data loading to visualization.
 **Diwali Sales Data.csv**: The raw dataset used for this project. (This file should be placed in the same directory as the notebook.)
 
 **Usage**
