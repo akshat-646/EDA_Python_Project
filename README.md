@@ -38,11 +38,11 @@ The analysis is performed on the Diwali Sales Data.csv dataset, which includes i
 
 **Usage**
 
-Clone the repository (if applicable) or ensure you have both PYTHON_PROJECT_FINAL.ipynb and Diwali Sales Data.csv in the same directory.
+Clone the repository (if applicable) or ensure you have both PYTHON_PROJECT.ipynb and Diwali Sales Data.csv in the same directory.
 Install the required libraries if you haven't already:
 pip install pandas numpy matplotlib seaborn jupyter
 
 **Open the Jupyter Notebook:**
 
-jupyter notebook "PYTHON_PROJECT_FINAL.ipynb
+jupyter notebook "PYTHON_PROJECT.ipynb
 Run all cells in the notebook to execute the analysis and view the results.
